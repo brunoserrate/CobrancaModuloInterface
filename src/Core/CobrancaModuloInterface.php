@@ -1,6 +1,6 @@
 <?php
 
-namespace Core\Cobranca;
+namespace CobrancaModuloInterface\Core;
 
 interface CobrancaModuloInterface {
 
