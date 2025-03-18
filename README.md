@@ -18,5 +18,5 @@ Módulo de interface que une a classe abstrata do módulo principal com os módu
 
 ## Instalação
 ```bash
-composer require brunoserrate/cobranca-modulo-interface
+composer require bruno/cobranca-modulo-interface
 ```
